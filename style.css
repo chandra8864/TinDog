@@ -1,0 +1,27 @@
+.clr{
+    background-color: #ff4c68;
+}
+.txt{
+    color: white !important;
+}
+.fg{
+    color: white !important;
+    height: 50% !important;
+    margin-bottom: 0 !important;
+
+}
+.hei{
+    height: 50% !important;
+}
+
+.ph{
+    height: 40% !important;
+}
+
+.bg-pink{
+    background-color: #ef8172 !important;
+}
+
+.mtm{
+    margin-top: -1%;
+}
